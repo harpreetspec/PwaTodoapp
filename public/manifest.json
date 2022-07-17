@@ -1,0 +1,7 @@
+{
+"name":"Todo List Web App",
+"short_name":"Todo App",
+"description":"Web application for creating Todo List task ",
+"start_url":"http://localhost:3000/index.html",
+"theme_color":"#317EFB"
+}
